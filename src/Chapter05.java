@@ -1,12 +1,12 @@
 
 public class Chapter05 {
 	public static void main(String[] args) {
-		long int1 = 9223372036854775807L;
-		System.out.println(int1);
-		double int2 = 12345;
-		System.out.println(int2);
-		boolean int3 = true;
-		System.out.println(int3);
+		long l = 9223372036854775807L;
+		System.out.println(l);
+		double d = 12345;
+		System.out.println(d);
+		boolean b = true;
+		System.out.println(b);
 		
 		Float float1 = 1.1f;
 		System.out.println(float1);
