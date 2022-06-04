@@ -5,7 +5,7 @@ public class Chapter04 {
 		System.out.println(str);
 		str = "yama";
 		System.out.println(str);
-		int NUM = 24;
+		final int NUM = 24;
 		System.out.println(NUM);
 	}
 }
