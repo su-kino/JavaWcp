@@ -25,7 +25,6 @@ public class Chapter07 {
 				break;
 			default:
 				System.out.println("信号の色ではありません");
-				break;	
 		}
 	}
 }
